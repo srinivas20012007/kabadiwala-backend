@@ -1,0 +1,1 @@
+// storage.js - Kabadiwala Connect
