@@ -1,1 +1,0 @@
-// PhysicalScaleGuide.jsx - Kabadiwala Connect
